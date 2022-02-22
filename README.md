@@ -1,4 +1,4 @@
-#usb-automaton
+# usb-automaton
 A very simple JS script built with Node.js made for a friend to launch specific programs onto his Windows 11 distribution whenever specific devices are plugged onto his personal computer. This might evolve into a fully-scalable application that could extend this basic functionality, as it turns out there aren't any softwares, within the Windows ecosystem, that perform such tasks.
 
 Most of the inputs are hard-coded, which doesn't make for a potent scalable application per se, right now. However, it fully covers the needs of the person who asked me to write such a script.
